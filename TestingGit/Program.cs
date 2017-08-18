@@ -10,7 +10,7 @@ namespace TestingGit
     {
         static void Main(string[] args)
         {
-            //commentt
+            //comment
             Console.Beep();
         }
     }
