@@ -11,6 +11,11 @@ namespace TestingGit
         static void Main(string[] args)
         {
             //comment
+            foo();
+        }
+
+        static void foo()
+        {
             Console.Beep();
         }
     }
