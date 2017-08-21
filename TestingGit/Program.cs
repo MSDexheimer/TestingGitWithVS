@@ -16,6 +16,7 @@ namespace TestingGit
 
         static void foo2()
         {
+            //comment
             Console.Write("foo");
         }
     }
