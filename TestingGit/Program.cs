@@ -11,10 +11,10 @@ namespace TestingGit
         static void Main(string[] args)
         {
             //comment
-            foo();
+            randfunc();
         }
 
-        static void foo()
+        static void randfunc()
         {
             //comment
             Console.Beep();
